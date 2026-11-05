@@ -1,0 +1,14 @@
+{
+  "source_repository": "https://github.com/leratk22/mental-index",
+  "source_commit": "7321dce668491c1f9143f14c030c4a173b6f6dc5",
+  "verified_on": "2026-11-05",
+  "files": {
+    "dashboard-v3.html": "4f08c2553499d648a582e23622a36e5798e49eb01f0311611b95714a72e46795",
+    "assets/css/dashboard.css": "134784591857c7c57416e428ab25fc435c9e39c8fed79e7db004fc715faf985c",
+    "assets/css/dashboard-soft.css": "faf94d60f8be2b77a94911917aa25a7fdbc4c86308056824fd9faea4c07016e2",
+    "assets/css/dashboard-v3.css": "0b3e067a5ae43bb7d66e45d3a130149f4d7b974617304bc840e635b57cbbd5e4",
+    "assets/js/dashboard-viz.js": "19a62c4eeb29e22d4845b103579a4bb86457ce6ac4bf50864fc0a821e2411add",
+    "assets/js/dashboard-v3.js": "adcdad97e6a4ca6a2efbf092f8ec082cc4ba90369941b173602ae9819c7d7c9d",
+    "assets/img/prosebya-logo.svg": "a68da0e2c39e9b45131184ad1fc31364df10dc0b85dbd7f5e657e0a4c7a75f87"
+  }
+}
