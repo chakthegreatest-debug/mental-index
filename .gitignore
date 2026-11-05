@@ -1,0 +1,9 @@
+# Рабочие бэкапы — в репозиторий не идут
+backup/
+
+# Системное
+.DS_Store
+
+# Local handoff and audit evidence
+.local/
+README.2brain.md
